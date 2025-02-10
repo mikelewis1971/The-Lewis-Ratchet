@@ -1,4 +1,5 @@
 # The-Lewis-Ratchet
+https://qmichaellewis.blogspot.com/2025/02/exploring-lewis-ratchet-in-python.html
 
 The Lewis Ratchet: A Momentum-Based Displacement System
 The Lewis Ratchet describes a controlled displacement phenomenon where an object—such as a raft—accumulates small, incremental shifts due to carefully applied momentum transfers. In this case, a person on a raft throws masses sequentially, leveraging the conservation of momentum to shift the raft in a desired direction. However, when retrieving the masses, time-adjusted steps ensure that no additional unintended displacement occurs.
@@ -22,3 +23,5 @@ Why It’s Called a Ratchet?
 A traditional ratchet allows movement in one direction only, preventing backward motion. The Lewis Ratchet follows this principle by permitting unidirectional displacement through carefully managed impulse transfers while blocking unintended drift during retrieval.
 
 This simulation serves as a powerful teaching tool, demonstrating principles of Newtonian mechanics, momentum conservation, drag forces, and controlled motion in a dynamic environment. 🚀
+
+https://qmichaellewis.blogspot.com/
